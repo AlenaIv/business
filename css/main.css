@@ -277,11 +277,17 @@ a:hover{
     background-color: white;
     height: 5px;
     width: 40px;
+    margin-bottom: 20px;
+}
+.samples{
+    margin-bottom: 150px;
 }
 .photos{
-	margin-top: 20px;
+	margin-top: 0;
 	background-color: #f35e59;
+    padding: 0;
 }
+
 .photos span{
 	padding-top: 70px;
 	font-size: 30px;
@@ -304,11 +310,21 @@ a:hover{
 }
 .bg-1{
 	background-image: url(../img/step-1.jpg);
+    height: 250px;
 
 }
 .bg-2{
 	background-image: url(../img/photo-2.jpg);
+    height: 250px;
 	}
+.bg-3{
+    background-image: url(../img/photo-3.jpg);
+    height: 250px;
+}
+.bg-4{
+    background-image: url(../img/photo-4.jpg);
+    height: 250px;
+}
 .spoiler_link span {
     display: inline-block;
     width: 45px;
